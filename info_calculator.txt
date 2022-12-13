@@ -1,0 +1,32 @@
+How to run ryma1738's calculator!
+Arg 1: The formula or group of formulas you would like to do.
+0: Infomation Page
+
+1: Pythagorean Theorem: A^2 + B^2 = C^2
+	Enter in all varibles. Enter 0 for the varible you wish to solve
+	Arg 2: The Leter of the varible you wish to solve. EXP: A or a
+	Arg 3: Lenght of side: A
+	Arg 4: Lenght of side: B
+	Arg 5: Length of side: C
+
+2: Area's of shapes:
+	Arg 2: The number of the shape you wish to solve:
+	    1: Rectangle: A = L * W
+	       Arg 3: Lenght
+	       Arg 4: Width
+	    2: Triangle: A = (H * B) / 2
+	       Arg 3: Height
+	       Arg 4: Base
+	    3: Circle: A = (pi) * r^2 
+	       Arg 3: Radius
+	    4: Cylinder: A = (2*(pi)*R*H) + (2*(pi)*R^2)
+	       Arg 3: Radius
+ 	       Arg 4: Height
+
+3: Quadratic Formula: x = (-b +or- sqrt(b^2 - 4*A*C) / 2*A
+	Note the set up is usally in the form Y= AX + Bx + C
+	Arg 2: A
+	Arg 3: B
+	Arg 4: C
+
+4: Factoring: Work in Progress...
